@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S":  {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "easiergame:leather_block",
+    "count": 1
+  }
+}
