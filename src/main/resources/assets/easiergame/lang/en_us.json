@@ -1,6 +1,7 @@
 {
   "item.easiergame.bandage_item": "Bandage",
   "itemGroup.easiergame.allitems": "Easier Game Items",
-  "block.easiergame.leather_block": "Leather Block"
+  "block.easiergame.leather_block": "Leather Block",
+  "block.easiergame.teleporter_block": "Teleporter"
 }
 

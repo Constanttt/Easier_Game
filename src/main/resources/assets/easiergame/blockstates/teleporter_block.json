@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "easiergame:block/teleporter_block" }
+    }
+}

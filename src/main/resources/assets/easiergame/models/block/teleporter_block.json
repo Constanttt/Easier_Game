@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "easiergame:block/teleporter_block_side3",
+        "down": "block/dark_oak_planks",
+        "up": "easiergame:block/teleporter_block_top",
+        "north": "easiergame:block/teleporter_block_side3",
+        "east": "easiergame:block/teleporter_block_side3",
+        "south": "easiergame:block/teleporter_block_side1",
+        "west": "easiergame:block/teleporter_block_side2"
+    }
+}
