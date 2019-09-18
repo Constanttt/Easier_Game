@@ -1,4 +1,5 @@
 {
-  "item.easiergame.bandage": "Bandage"
+  "item.easiergame.bandage_item": "Bandage",
+  "itemGroup.easiergame.allitems": "Easier Game Items"
 }
 

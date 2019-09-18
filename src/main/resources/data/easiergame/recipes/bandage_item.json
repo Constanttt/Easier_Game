@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PFP",
+    "S  "
+  ],
+  "key": {
+    "S":  {
+      "item": "minecraft:string"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "F": {
+      "item" : "minecraft:oxeye_daisy"
+    }
+  },
+  "result": {
+    "item": "easiergame:bandage_item",
+    "count": 2
+  }
+}
