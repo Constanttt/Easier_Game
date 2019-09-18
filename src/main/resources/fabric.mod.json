@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "easiergame",
+  "version": "${version}",
+
+  "name": "Easier Game",
+  "description": "This is a mod to make the game easier and more enjoyable",
+  "authors": [
+    "Me!"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/easiergame/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.easier.game.EasierGame"
+    ]
+  },
+  "mixins": [
+    "easiergame.mixins.json"
+  ],
+
+
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
